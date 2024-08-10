@@ -91,8 +91,8 @@ main {
     align-items: center;
     justify-content: space-between;
     gap: 1rem;
-
 }
+
 
 .icon-question {
 width: 30px;
@@ -105,6 +105,9 @@ transition: all .3s ease;
     width: 90%;
     font-size: 1rem;
     color: var(--Dark-purple);
+}
+.card-question h5 {
+    color:#AD28EB;
 }
 
 .card-answer {
